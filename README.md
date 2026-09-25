@@ -20,6 +20,9 @@ Approach
 - Evaluated Results 
 
 Key Results
--Net and gross margin on electricity and consumption are the largest drivers of churn over the past 12 months
 -Churn is nearly 10% 
+-Random Forest Classification achieved 0.90 accuracy.
+-Model is correct identifying 3282 staying customers. However, model is not correctly identify 346 churned customers. 
+
+-Net and gross margin on electricity and consumption are the largest drivers of churn over the past 12 months
 -Discount may not be the best solution to reduce churn. Customers are not leaving because they are overly priced. 
